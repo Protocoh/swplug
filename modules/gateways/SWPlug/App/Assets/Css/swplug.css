@@ -1,0 +1,65 @@
+.bolded, .header
+{
+    font-weight: 700;
+}
+
+.invoice-details
+{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.invoice-details tr:last-child td
+{
+    border-bottom: 1px solid #ddd;
+}
+
+.invoice-details td.data
+{
+    text-align: center;
+}
+
+.header
+{
+    font-size: 23px;
+}
+
+input
+{
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.amount-field
+{
+    width: 10%;
+}
+
+.memo-field
+{
+    width: 23%;
+}
+
+.wallet-field
+{
+    width: 45%;
+}
+
+.first-line
+{
+    margin-top: 30px;
+}
+
+.end-line
+{
+    margin-bottom: 40px;
+}
